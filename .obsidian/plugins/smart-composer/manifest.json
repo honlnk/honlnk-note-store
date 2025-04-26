@@ -1,0 +1,11 @@
+{
+    "id": "smart-composer",
+    "name": "Smart Composer",
+    "version": "1.1.9",
+    "minAppVersion": "0.15.0",
+    "description": "基于笔记上下文的AI聊天，智能写作辅助，以及一键编辑功能",
+    "author": "Heesu Suh",
+    "authorUrl": "https://github.com/glowingjade",
+    "fundingUrl": "https://buymeacoffee.com/glowingjade",
+    "isDesktopOnly": false
+}

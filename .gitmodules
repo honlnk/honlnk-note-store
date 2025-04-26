@@ -1,0 +1,12 @@
+[submodule "博客"]
+	path = 博客
+	url = https://gitee.com/hong-ying-19/honlnk-blog.git
+[submodule "编程/麦田-sdtr"]
+	path = 编程/麦田-sdtr
+	url = https://gitee.com/hong-ying-19/mai-tian-sdtr-study.git
+[submodule "编程/王者图鉴-冷弋白"]
+	path = 编程/王者图鉴-冷弋白
+	url = https://gitee.com/hong-ying-19/wztj-lyb-guide.git
+[submodule "专升本/数学"]
+	path = 专升本/数学
+	url = https://gitee.com/hong-ying-19/mathnotes-shadow.git

@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-emoji-toolbar",
+    "name": "Emoji Toolbar",
+    "version": "0.4.1",
+    "description": "在笔记中快速搜索和插入表情符号。",
+    "author": "oliveryh",
+    "authorUrl": "https://github.com/oliveryh/obsidian-emoji-toolbar",
+    "isDesktopOnly": false
+}
