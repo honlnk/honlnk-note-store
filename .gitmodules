@@ -10,3 +10,6 @@
 [submodule "专升本/数学"]
 	path = 专升本/数学
 	url = https://gitee.com/hong-ying-19/mathnotes-shadow.git
+[submodule "编程/麦田-fcd"]
+	path = 编程/麦田-fcd
+	url = https://gitee.com/hong-ying-19/maitian---fcd.git
