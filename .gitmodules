@@ -1,12 +1,12 @@
-[submodule "编程/麦田-sdtr"]
-	path = 编程/麦田-sdtr
-	url = https://gitee.com/hong-ying-19/mai-tian-sdtr-study.git
-[submodule "编程/麦田-fcd"]
-	path = 编程/麦田-fcd
-	url = https://gitee.com/hong-ying-19/maitian---fcd.git
 [submodule "blog"]
 	path = blog
 	url = https://gitee.com/hong-ying-19/honlnk-blog.git
 [submodule "college-to-undergraduate/math"]
 	path = college-to-undergraduate/math
 	url = https://gitee.com/hong-ying-19/mathnotes-shadow.git
+[submodule "program/mai-tian-fcd"]
+	path = program/mai-tian-fcd
+	url = https://gitee.com/hong-ying-19/maitian---fcd.git
+[submodule "program/mai-tian-sdtr"]
+	path = program/mai-tian-sdtr
+	url = https://gitee.com/hong-ying-19/mai-tian-sdtr-study.git
