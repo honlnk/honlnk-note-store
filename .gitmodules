@@ -1,12 +1,12 @@
 [submodule "blog"]
-	path = blog
-	url = https://gitee.com/hong-ying-19/honlnk-blog.git
+    path = blog
+    url = git@gitee.com:hong-ying-19/honlnk-blog.git
 [submodule "college-to-undergraduate/math"]
-	path = college-to-undergraduate/math
-	url = https://gitee.com/hong-ying-19/mathnotes-shadow.git
+    path = college-to-undergraduate/math
+    url = git@gitee.com:hong-ying-19/mathnotes-shadow.git
 [submodule "program/mai-tian-fcd"]
-	path = program/mai-tian-fcd
-	url = https://gitee.com/hong-ying-19/maitian---fcd.git
+    path = program/mai-tian-fcd
+    url = git@gitee.com:hong-ying-19/maitian---fcd.git
 [submodule "program/mai-tian-sdtr"]
-	path = program/mai-tian-sdtr
-	url = https://gitee.com/hong-ying-19/mai-tian-sdtr-study.git
+    path = program/mai-tian-sdtr
+    url = git@gitee.com:hong-ying-19/mai-tian-sdtr-study.git
