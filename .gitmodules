@@ -1,5 +1,5 @@
-[submodule "blog"]
-	path = blog
+[submodule "blog-test"]
+	path = blog-test
     url = git@gitee.com:hong-ying-19/honlnk-blog.git
 [submodule "college-to-undergraduate/math"]
     path = college-to-undergraduate/math
