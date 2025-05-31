@@ -10,3 +10,6 @@
 [submodule "program/mai-tian-sdtr"]
     path = program/mai-tian-sdtr
     url = git@gitee.com:hong-ying-19/mai-tian-sdtr-study.git
+[submodule "program/czuan"]
+	path = program/czuan
+	url = git@gitee.com:hong-ying-19/czuan-dev-doc.git
