@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "scrollbar-style"
+  ],
+  "accentColor": "#2c9694"
+}
