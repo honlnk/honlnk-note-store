@@ -13,3 +13,6 @@
 [submodule "blog"]
 	path = blog
 	url = ../honlnk-blog.git
+[submodule "program/JManus-learn-notes"]
+	path = program/JManus-learn-notes
+	url = ../JManus-learn-notes.git
